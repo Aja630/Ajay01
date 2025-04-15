@@ -35,3 +35,22 @@
 #nabar ul li i{
     color: red;
 }
+
+
+
+#Aboutpage .aboutdiv{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: auto;
+    justify-content: center;
+    gap: 10px;
+
+}
+#Aboutpage .aboutdiv{
+    width: 100%;
+    height:  10px;
+    
+}
